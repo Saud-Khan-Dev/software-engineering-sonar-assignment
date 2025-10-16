@@ -26,7 +26,7 @@ public class Main {
                     break;
 
                 case 2:
-                    System.out.println("\n--- Task List ---");
+                    System.out.println("\n--- Task  Lists ---");
                     for (Task t : tasks) {
                         t.displayTask();
                     }
