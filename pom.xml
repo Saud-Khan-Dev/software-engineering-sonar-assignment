@@ -1,3 +1,5 @@
-<properties>
+
+<project><properties>
   <sonar.organization>saud-khan-dev</sonar.organization>
 </properties>
+</project>
